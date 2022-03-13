@@ -22,3 +22,17 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+TODO:
+- [ ] [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
+  
+![Image](https://nvie.com/img/git-model@2x.png)
+- [ ] Protected Git Branch
+- [ ] Activate Dependabot
+- [ ] Activate CI pipelines
+    - [ ] run rubocop
+    - [ ] run rubycritic
+    - [ ] run tests
+    - [ ] coverage min 80%
+    - [ ] maintainability 
+    
